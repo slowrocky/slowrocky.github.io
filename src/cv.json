@@ -1,0 +1,94 @@
+{
+  "personalInfo": {
+     "name": "👨‍💻 Matúš",
+     "position": "Full Stack Developer",
+     "brief": "Brief.",
+     "email": "slowrockdev@gmail.com",
+     "emailDomain": "domain.com",
+     "location": "Slovakia",
+     "gender": "Male",
+     "github": "slowrocky",
+     "linkedin": "matus-holotnak",
+     "twitter": "Slowrock__"
+  },
+  "educationInfo": {
+     "data": [
+        {
+           "school": {
+              "name": "Name",
+              "logoUrl": "https://logo.url/image.png",
+              "acronym": "ACRONYM",
+              "location": "Azrgard",
+              "url": "https://azgard.edu.space"
+           },
+           "degree": "Thor Technology Assistant",
+           "startYear": 2013,
+           "endYear": 2017
+        }
+     ]
+  },
+  "workExperience": {
+     "data": [
+        {
+           "company": {
+              "name": "Advengers",
+              "logoUrl": "https://advengers.image/image.png",
+              "url": "https://www.advengers.end"
+           },
+           "title": "Time Traveller",
+           "startYear": 2019,
+           "startMonth": 12,
+           "current": true,
+           "description": "Working hard to get a seat in the table"
+        }
+     ]
+  },
+  "skillsAndTech": {
+     "technologies": [
+        {
+           "name": "Javascript",
+           "level": "advanced"
+        },
+        {
+           "name": "CSS",
+           "level": "advanced"
+        },
+        {
+           "name": "React",
+           "level": "advanced"
+        },
+        {
+           "name": "Node.js",
+           "level": "advanced"
+        },
+        {
+           "name": "SQL",
+           "level": "intermediate"
+        },
+        {
+           "name": "MySQL",
+           "level": "I"
+        },
+        {
+           "name": "Typescript",
+           "level": "I"
+        }
+     ]
+  },
+  "portfolio": {
+     "projects": [
+        {
+           "name": "Save Hulk",
+           "desc": "Create a suit for protect the people from hulk",
+           "stack": [
+              "react",
+              "redux",
+              "sass",
+              "azure"
+           ],
+           "startYear": 2019,
+           "endYear": 2020
+        }
+     ]
+  }
+}
